@@ -1,1 +1,3 @@
-# javaStudyRecord
+# java 学习记录
+
+分享自己学习过的知识及总结
